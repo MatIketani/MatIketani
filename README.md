@@ -1,4 +1,9 @@
-# Hello there!
+# Olá!
+
+Apaixonado por tecnologia e programação, tentando a todo tempo melhorar meu repertório e me tornar a melhor versão de eu mesmo. 
+Intermediário na linguagem Python, uma das mais utilizadas no mercado da computação atualmente, estudante de Node.JS nas tecnologias ExpressJS, Socket.IO, Vue.JS. Interessado no desenvolvimento de APIs Rest.
+
+Belo Horizonte - Minas Gerais.
 
 <div>
   <a href="https://github.com/MatIketani">
