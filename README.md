@@ -1,7 +1,7 @@
 # Olá!
 
 Apaixonado por tecnologia e programação, tentando a todo tempo melhorar meu repertório e me tornar a melhor versão de eu mesmo. 
-Intermediário na linguagem Python, uma das mais utilizadas no mercado da computação atualmente, estudante de TypeScript Node.JS nas tecnologias ExpressJS, Socket.IO, Vue.JS. Interessado em seguir carreiras no desenvolvimento web e back-end.
+Intermediário na linguagem Python, uma das mais utilizadas no mercado da computação atualmente, estudante de TypeScript e Node.JS nas tecnologias ExpressJS, Socket.IO, Vue.JS. Interessado em seguir carreiras no desenvolvimento web e back-end.
 
 Belo Horizonte - Minas Gerais.
 
