@@ -1,9 +1,9 @@
 # Olá!
 
-Apaixonado por tecnologia e programação, tentando a todo tempo melhorar meu repertório e me tornar a melhor versão de eu mesmo. 
-Intermediário na linguagem Python, uma das mais utilizadas no mercado da computação atualmente, estudante de TypeScript e Node.JS nas tecnologias ExpressJS, Socket.IO, Vue.JS. Interessado em seguir carreiras no desenvolvimento web e back-end.
+Passionate about technology and programming, always trying to improve my repertoire and become the best version of myself.
+Intermediate in Python language, one of the most used in the computing market today, student of TypeScript and Node.JS in ExpressJS, Socket.IO, Vue.JS technologies. Interested in pursuing careers in web and backend development.
 
-Belo Horizonte - Minas Gerais.
+Belo Horizonte - Minas Gerais, Brazil.
 
 <div>
   <a href="https://github.com/MatIketani">
