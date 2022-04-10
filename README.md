@@ -1,7 +1,8 @@
 # Hello there!
 
 Passionate about technology and programming, always trying to improve my repertoire and become the best version of myself.
-Intermediate in Python language, one of the most used in the computing market today, student of TypeScript and Node.JS in ExpressJS, Socket.IO, Vue.JS technologies. Interested in pursuing careers in web and backend development.
+JavaScript, TypeScript and Python programmer, learning C and C++.
+Interested in pursuing careers in web and backend development.
 
 Belo Horizonte - Minas Gerais, Brazil.
 
