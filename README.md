@@ -1,7 +1,7 @@
 # Hello there!
 
 Passionate about technology and programming, always trying to improve my repertoire and become the best version of myself.
-JavaScript, TypeScript and Python programmer, learning C and C++.
+JavaScript, TypeScript and Python programmer, learning Java.
 Interested in pursuing careers in web and backend development.
 
 Belo Horizonte - Minas Gerais, Brazil.
