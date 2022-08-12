@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **express.js, typescript and python**
 
-- 📫 Reach me at **discord: mateus iketani#0777**
+- 📫 Reach me at discord: **mateus iketani#0777**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
