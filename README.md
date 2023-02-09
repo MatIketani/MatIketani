@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiketani&label=Profile%20views&color=0e75b6&style=flat" alt="matiketani" /> </p>
 
-- 🌱 I’m currently learning **PHP and Java**
-
 - 🤝 I’m looking for help with **open-source projects**
 
-- 💬 Ask me about **express.js, typescript and python**
+- 💬 Ask me about **php, jquery, express.js, typescript and python**
 
 - 📫 Reach me at discord: **mateus iketani#0777**
 
