@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Mateus</h1>
-<h3 align="left">Back-End Developer from Belo Horizonte, Brazil</h3>
+<h3 align="left">Full-Stack Developer from Belo Horizonte, Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matiketani&label=Profile%20views&color=0e75b6&style=flat" alt="matiketani" /> </p>
 
@@ -10,6 +10,7 @@
 - 📫 Reach me at discord: **mateus iketani#0777**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
